@@ -37,11 +37,14 @@ const renderMessageELe= (txt) => {
 	chatBody.appendChild(messageELe);
 };
 const responseObj = {
-	hello:"Hey ! How are you doing?",
+	Hello:"Hey ! How are you doing?",
 	Hey:"Namaste ! how are you doing?",
 	Bye:"Bye sir.Have a nice day!",
 	today: new Date().toDateString(),
 	time: new Date().toLocaleTimeString(),
+	gay:"No u gay .Go suck diks",
+	Iloveu:"I love u too.Hearts......",
+
 };
 
  const getChatbotResponse = (userInput) => {
