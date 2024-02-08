@@ -8,8 +8,8 @@
 }
 
 body{
-	background-color: #4158D0;
-background-image: linear-gradient(43deg, #A020F0 0%, #C850C0 46%, #FFCC70 100%);
+background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 
 }
 .container{
@@ -27,7 +27,7 @@ background-image: linear-gradient(43deg, #A020F0 0%, #C850C0 46%, #FFCC70 100%);
 	display: flex;
 	align-items: center;
 	padding:0px 30px;
-	background-color: blue;
+	background-color: #ADD8E6;
 	color:var(--light-color);
 	 
 	 
@@ -106,7 +106,7 @@ background-image: linear-gradient(43deg, #A020F0 0%, #C850C0 46%, #FFCC70 100%);
 }
 .user-message{
 	padding: 10px;
-	background: grey;
+	background: #D3D3D3;
 	margin:5px;
 	width: max-content;
 	border-radius: 12px 4px 12px 12px;
